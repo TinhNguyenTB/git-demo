@@ -1,10 +1,3 @@
 console.log("hello ");
-console.log("HELL");
-console.log("HELL");
-console.log("HELL");
-console.log("HELL");
-console.log("HELL");
-console.log("HELL");
-console.log("HELL");
-console.log("HELL");
+console.log("hello dsdsdds");
 console.log("HELL");
