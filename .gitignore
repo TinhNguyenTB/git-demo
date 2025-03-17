@@ -1,2 +1,3 @@
 ignorefile
-/toanproject/index.ts
+./toanproject/index.ts
+toanproject/index.ts
