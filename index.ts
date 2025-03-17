@@ -1,7 +1,7 @@
 interface Student {
   id: string;
   name: string;
-  age: number;
+  age: string;
 }
 
 type Human = Pick<Student, "id" | "name">;
